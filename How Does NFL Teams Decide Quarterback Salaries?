@@ -1,3 +1,5 @@
+How Does NFL Teams Decide Quarterback Salaries?
+
 {
  "cells": [
   {
@@ -5,11 +7,6 @@
    "id": "4024e00a-35d4-435f-b604-f9916ddb1e0c",
    "metadata": {
     "tags": []
-   },
-   "source": [
-    "How Does NFL Teams Decide Quarterback Salaries?"
-   ]
-  },
   {
    "cell_type": "code",
    "execution_count": 10,
